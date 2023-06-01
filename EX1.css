@@ -1,0 +1,60 @@
+.first-container {
+    margin: auto;
+    width: 100%;
+    height: 600px;
+    background-image: url(coral\ image.jpg); 
+}
+ .leftside {
+    float: left;
+    text-align: center;
+    width: 30%;
+    margin-left: 100px;
+    margin-top: 200px;
+    color: white;
+}
+.heading {
+    font-size: xx-large;
+    font-weight: 200;
+}   
+ 
+ .rightside {
+    float: right;
+    margin-right: 200px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+ }
+ .letter1 {
+    background-color: blueviolet;
+    height: 50px;
+    width: 500px;
+    color: white;
+ }
+
+#form {
+   background-color: white;
+   margin: auto;
+}
+.input {
+    height: 300px;
+ }
+ .placeholders {
+    width: 80%;
+    height: 50px;
+    margin-left: 50px;
+ }
+ .para1 {
+        text-align: center;
+        position: relative;
+        top: 20px;
+ }
+ .button {
+        text-align: center;
+        height: 50px;
+        width: 80%;
+        margin-left: 50px;
+        background-color: rgb(5, 58, 5);
+        color: white;
+        border-radius: 20px;
+ }
+ 
+ 
